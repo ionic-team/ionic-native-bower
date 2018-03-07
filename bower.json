@@ -15,7 +15,7 @@
     "hybrid",
     "mobile"
   ],
-  "homepage": "https://github.com/driftyco/ionic-native-bower",
+  "homepage": "https://github.com/ionic-team/ionic-native-bower",
   "ignore": [
     "**/.*",
     "node_modules",
